@@ -1,9 +1,14 @@
+
+/* google font imports */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,300&family=Oswald:wght@200..700&display=swap');
+
 /* Asterisk selector to overide default browser styling */
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+
 
 /* General Styles */
 body{
@@ -13,6 +18,7 @@ body{
     /* generic project styles */
     color: #3a3a3a;
 }
+
 
 /*header*/
 header{
